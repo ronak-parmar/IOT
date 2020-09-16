@@ -1,0 +1,11 @@
+AIM:- In this Practical when User send command in telegram bot :- date 
+then bot replay date of day. eg:- USER:- date
+					BOT:- 14/09/2020
+
+
+In this practical we will be creating a telegram bot using python and the telegram package
+
+steps:
+1.go to botfather in telegram app/web and create a bot.
+2. then from it you will get a unique token id.
+3.then add itb to your code as given in prac_1.py.
